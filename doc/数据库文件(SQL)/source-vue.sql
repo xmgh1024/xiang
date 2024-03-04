@@ -916,7 +916,7 @@ INSERT INTO `sys_dict_data` VALUES ('27', '1', '成功', '0', 'sys_common_status
 INSERT INTO `sys_dict_data` VALUES ('28', '2', '失败', '1', 'sys_common_status', '', 'danger', 'N', '0', 'admin', '2021-12-12 13:47:15', '', null, '停用状态');
 INSERT INTO `sys_dict_data` VALUES ('29', '1', '开源项目', '开源项目', 'sys_article_type', null, 'default', 'N', '0', 'admin', '2022-02-15 17:28:57', 'admin', '2022-04-14 21:50:59', null);
 INSERT INTO `sys_dict_data` VALUES ('30', '11', '程序人生', '程序人生', 'sys_article_type', null, 'default', 'N', '0', 'admin', '2022-02-15 17:29:08', 'admin', '2022-03-01 10:37:05', null);
-INSERT INTO `sys_dict_data` VALUES ('36', '0', '开源字节', '开源字节', 'sys_article_xiang', null, 'default', 'N', '0', 'admin', '2022-02-15 17:33:45', 'admin', '2022-03-17 16:15:01', null);
+INSERT INTO `sys_dict_data` VALUES ('36', '0', 'ljp', 'ljp', 'sys_article_xiang', null, 'default', 'N', '0', 'admin', '2022-02-15 17:33:45', 'admin', '2022-03-17 16:15:01', null);
 INSERT INTO `sys_dict_data` VALUES ('38', '1', '用户协议', '用户协议', 'sys_service_type', null, 'default', 'N', '0', 'admin', '2022-02-15 17:35:37', 'admin', '2022-03-18 23:19:11', null);
 INSERT INTO `sys_dict_data` VALUES ('39', '3', '代理合作', '代理合作', 'sys_service_type', null, 'default', 'N', '0', 'admin', '2022-02-15 17:35:51', 'admin', '2022-03-08 09:45:06', null);
 INSERT INTO `sys_dict_data` VALUES ('40', '2', '隐私协议', '隐私协议', 'sys_service_type', null, 'default', 'N', '0', 'admin', '2022-02-23 16:00:14', 'admin', '2022-03-08 09:45:02', null);
